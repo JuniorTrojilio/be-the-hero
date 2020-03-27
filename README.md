@@ -34,6 +34,8 @@ acesso aos casos e escolhem quais desejam "apadrinhar".
 ### Alakazam projeto rodando:
 ![schema](https://user-images.githubusercontent.com/39541807/77798894-7fae9b00-7052-11ea-92fa-f4e045b461d6.png)
 ![iphone](https://user-images.githubusercontent.com/39541807/77800600-e3869300-7055-11ea-9982-8731f28865f7.png)
+
+#### Nota para executar o app no smartphone basta [baixar](https://expo.io/learn) o app "expo" na [playstore](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR).
 ---
                                                  Sua ⭐ é bem vinda!
                                             <> com ❤️ por Junior Trojilio
